@@ -1,0 +1,17 @@
+{
+    "name": "ch.localsearch/shore_api_tester",
+    "description": "testsuite to the https://api.shore.com. Find documentation at https://docs.shore.com",
+    "type": "project",
+    "require": {
+        "php-vcr/php-vcr": "^1.3",
+        "phpunit/phpunit": "~v5.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lapistano",
+            "email": "git@bastian-feder.de"
+        }
+    ],
+    "minimum-stability": "dev"
+}
